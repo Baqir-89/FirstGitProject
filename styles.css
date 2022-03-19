@@ -1,0 +1,35 @@
+
+.signUp{
+    width: 500px;
+    padding: 15px;
+    margin: 20px auto;
+    text-align: center;
+}
+input
+{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px #ECECEC;
+}
+input:focus{
+    border-color: #FF1818;
+}
+button
+{
+    width: 20.4%;
+    background-color: #5463FF;
+    color: #ECECEC;
+    padding: 10px;
+    margin: 5px 5px 5px;
+    border-radius: 5px;
+    border-color: #5463FF;
+    box-shadow: none;
+}
+button:hover{
+    background-color: #ECECEC;
+    color: #5463FF;
+    border-color: #5463FF;
+    
+}
